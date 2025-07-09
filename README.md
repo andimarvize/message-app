@@ -12,7 +12,7 @@
 
 ---
 
-## ✅ Fitur Aplikasi
+##  Fitur Aplikasi
 
 - Registrasi user
 - Login dan Logout user
@@ -23,9 +23,9 @@
 
 ---
 
-## 🚀 Cara Menjalankan Aplikasi
+## Cara Menjalankan Aplikasi
 
-### 1. Persiapan Tools
+### 1. Tools
 Pastikan Anda sudah menginstal:
 - XAMPP (Apache & MySQL)
 - Git
