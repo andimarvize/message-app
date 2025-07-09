@@ -6,9 +6,9 @@
 
 <h1 align="center">Message App - Laravel</h1>
 
-## Deskripsi
 
-Aplikasi sederhana berbasis Laravel untuk pengiriman dan pengelolaan pesan antar pengguna. Project ini merupakan bagian dari tugas akademik dengan fokus pada implementasi fitur-fitur dasar Laravel seperti autentikasi, CRUD, routing, dan controller.
+
+
 
 ---
 
